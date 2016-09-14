@@ -1,0 +1,1 @@
+LAMP: linux + bigpipe + Apache + MySql + PHP
